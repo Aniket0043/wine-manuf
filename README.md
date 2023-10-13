@@ -2,8 +2,7 @@
  - Created by Aniket Nagar
  - github username: `aniket0043`
  - github account link: [https://github.com/aniket0043](https://github.com/aniket0043)
- - All rights reserved by the authors and thecryptoeditor
-
+ 
 ## Screenshots for better understanding
 
 ![Alt text](<screenshot1.png>)

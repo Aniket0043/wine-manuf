@@ -6,7 +6,7 @@
 ## Screenshots for better understanding
 
 ![Alt text](<screenshot1.png>)
-![Alt text](<screenshot1.png>)
+![Alt text](<screenshot2.png>)
 
 ## Available Scripts
 
